@@ -1,54 +1,43 @@
-/* 3. body: họ phông chữ + cỡ chữ */
 body {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 18px;
 }
 
-/* 4. header: màu nền */
 header {
   background-color: #1f3a5f;
   color: #ffffff;
 }
 
-/* 5. nav: màu nền */
 nav {
   background-color: #e8eef7;
 }
 
-/* 6. main: màu nền + cỡ chữ */
 main {
   background-color: #ffffff;
   font-size: 1.1rem;
 }
 
-/* 7. footer: màu nền */
 footer {
   background-color: #1f3a5f;
   color: #ffffff;
 }
 
-/* 8. li: kiểu hiển thị + chiều rộng */
 li {
   display: inline-block;
   width: 150px;
 }
 
-/* 9. h1: căn lề, họ phông chữ, màu chữ */
 h1 {
   text-align: center;
   font-family: Georgia, "Times New Roman", serif;
-  color: #1f3a5f;
+  color: #ffffff;
 }
 
-/* 10. p: chiều cao dòng */
 p {
   line-height: 1.6;
-}
-h1 {
-  color: #ffffff;
 }
 
 footer a {
   color: #ffffff;
 }
-```
+```[cite: 1]
